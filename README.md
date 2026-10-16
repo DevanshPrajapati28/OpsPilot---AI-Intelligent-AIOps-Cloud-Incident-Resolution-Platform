@@ -718,7 +718,7 @@ Use these verified, production-aligned bullet points directly on your resume. Ea
 ### Step 1: Environment Configuration
 Clone the repository and copy the environment template:
 ```bash
-git clone https://github.com/param2405/OpsPilot---AI-Intelligent-AIOps-Cloud-Incident-Resolution-Platform.git
+git clone https://github.com/DevanshPrajapati28/OpsPilot---AI-Intelligent-AIOps-Cloud-Incident-Resolution-Platform.git
 cd OpsPilot---AI-Intelligent-AIOps-Cloud-Incident-Resolution-Platform
 
 cp .env.example .env

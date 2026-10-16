@@ -6,7 +6,7 @@ provider "aws" {
       Project     = "OpsPilot-AI"
       Environment = var.environment
       ManagedBy   = "Terraform"
-      Repository  = "https://github.com/param2405/OpsPilot"
+      Repository  = "https://github.com/DevanshPrajapati28/OpsPilot---AI-Intelligent-AIOps-Cloud-Incident-Resolution-Platform"
     }
   }
 }
